@@ -8,4 +8,4 @@ charset= "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@" que 
 
  📌 Caso queira utilizar o projeto e até mesmo me apontar melhorias ou alterações, fique a vontade :)
 
-<a href="https://github.com/alvesvitorr/geradorSenhas/tree/master"> Código Fonte geradorSenhas</a>
+<!-- <a href="https://github.com/alvesvitorr/geradorSenhas/tree/master"> Código Fonte geradorSenhas</a> -->
